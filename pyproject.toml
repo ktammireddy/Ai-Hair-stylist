@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-hair-stylist"
+version = "0.1.0"
+description = "Rule-based recommendation utilities for hairstyle consultations"
+authors = [{ name = "OpenAI Assistant" }]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-q"
+pythonpath = ["src"]

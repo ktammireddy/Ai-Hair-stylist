@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Textured Bob",
+    "description": "A chin-length bob with layered texture that adds volume and movement.",
+    "face_shapes": ["oval", "heart", "square"],
+    "hair_lengths": ["short", "medium"],
+    "hair_textures": ["straight", "wavy"],
+    "genders": ["female", "non-binary"],
+    "occasions": ["professional", "everyday"],
+    "maintenance": "medium",
+    "tags": ["volume", "low-heat", "wash-and-go"]
+  },
+  {
+    "name": "Layered Lob",
+    "description": "Shoulder-length layers that frame the face and soften strong features.",
+    "face_shapes": ["square", "round", "oval"],
+    "hair_lengths": ["medium"],
+    "hair_textures": ["straight", "wavy"],
+    "genders": ["female", "non-binary"],
+    "occasions": ["professional", "evening", "everyday"],
+    "maintenance": "medium",
+    "tags": ["face-framing", "volume"]
+  },
+  {
+    "name": "Curly Shag",
+    "description": "A modern shag cut that celebrates natural curls with tapered layers.",
+    "face_shapes": ["oval", "heart", "round"],
+    "hair_lengths": ["medium", "long"],
+    "hair_textures": ["wavy", "curly", "coily"],
+    "genders": ["female", "male", "non-binary"],
+    "occasions": ["creative", "everyday"],
+    "maintenance": "low",
+    "tags": ["curls", "wash-and-go", "diffuser"]
+  },
+  {
+    "name": "Precision Pixie",
+    "description": "A sleek pixie cut with tapered sides and volume at the crown.",
+    "face_shapes": ["oval", "heart"],
+    "hair_lengths": ["short"],
+    "hair_textures": ["straight", "wavy"],
+    "genders": ["female", "non-binary"],
+    "occasions": ["professional", "evening"],
+    "maintenance": "high",
+    "tags": ["bold", "statement"]
+  },
+  {
+    "name": "Taper Fade",
+    "description": "A classic taper fade with clean lines that works with multiple textures.",
+    "face_shapes": ["oval", "square", "diamond"],
+    "hair_lengths": ["short"],
+    "hair_textures": ["straight", "wavy", "curly"],
+    "genders": ["male", "non-binary"],
+    "occasions": ["professional", "everyday"],
+    "maintenance": "medium",
+    "tags": ["barber", "sharp", "low-heat"]
+  },
+  {
+    "name": "Twist-Out Coils",
+    "description": "Defined coils achieved through a twist-out technique for type 4 hair.",
+    "face_shapes": ["oval", "round", "heart"],
+    "hair_lengths": ["medium", "long"],
+    "hair_textures": ["coily"],
+    "genders": ["female", "male", "non-binary"],
+    "occasions": ["creative", "evening", "everyday"],
+    "maintenance": "medium",
+    "tags": ["protective", "twist-out", "definition"]
+  },
+  {
+    "name": "Long Layers",
+    "description": "Long layers that remove weight while maintaining length and movement.",
+    "face_shapes": ["oval", "heart", "diamond"],
+    "hair_lengths": ["long"],
+    "hair_textures": ["straight", "wavy"],
+    "genders": ["female", "non-binary"],
+    "occasions": ["professional", "evening", "everyday"],
+    "maintenance": "medium",
+    "tags": ["length", "face-framing"]
+  },
+  {
+    "name": "Undercut with Curls",
+    "description": "Curly top with an undercut for contrast and easy styling.",
+    "face_shapes": ["oval", "square", "round"],
+    "hair_lengths": ["short", "medium"],
+    "hair_textures": ["curly", "coily"],
+    "genders": ["male", "non-binary"],
+    "occasions": ["creative", "everyday"],
+    "maintenance": "low",
+    "tags": ["statement", "curls", "low-heat"]
+  },
+  {
+    "name": "Sleek Ponytail",
+    "description": "A polished low ponytail with a glossy finish for formal events.",
+    "face_shapes": ["oval", "heart", "round"],
+    "hair_lengths": ["medium", "long"],
+    "hair_textures": ["straight", "wavy"],
+    "genders": ["female", "non-binary"],
+    "occasions": ["evening", "formal"],
+    "maintenance": "medium",
+    "tags": ["updo", "sleek", "heat-styling"]
+  },
+  {
+    "name": "Protective Box Braids",
+    "description": "Long-lasting box braids that protect natural hair and allow styling versatility.",
+    "face_shapes": ["oval", "round", "heart", "diamond"],
+    "hair_lengths": ["medium", "long"],
+    "hair_textures": ["curly", "coily"],
+    "genders": ["female", "non-binary"],
+    "occasions": ["everyday", "vacation"],
+    "maintenance": "low",
+    "tags": ["protective", "low-heat", "long-lasting"]
+  }
+]
